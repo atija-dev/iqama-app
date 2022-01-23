@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/iqama-app/static/css/main.d1bc8919.css",
+    "main.js": "/iqama-app/static/js/main.9e93ecbc.js",
+    "static/js/377.7c474258.chunk.js": "/iqama-app/static/js/377.7c474258.chunk.js",
+    "service-worker.js": "/iqama-app/service-worker.js",
+    "index.html": "/iqama-app/index.html",
+    "main.d1bc8919.css.map": "/iqama-app/static/css/main.d1bc8919.css.map",
+    "main.9e93ecbc.js.map": "/iqama-app/static/js/main.9e93ecbc.js.map",
+    "377.7c474258.chunk.js.map": "/iqama-app/static/js/377.7c474258.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1bc8919.css",
+    "static/js/main.9e93ecbc.js"
+  ]
+}
